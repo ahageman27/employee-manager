@@ -2,14 +2,16 @@
   "name": "employee-manager",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ahageman27/employee-manager.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -17,7 +19,7 @@
   },
   "homepage": "https://github.com/ahageman27/employee-manager#readme",
   "dependencies": {
-    "inquirer": "^8.2.4",
+    "inquirer": "^9.0.0",
     "mysql": "^2.18.1"
   }
 }
