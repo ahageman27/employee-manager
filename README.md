@@ -18,6 +18,8 @@
   ## Usage
   Run node index in the command line and then follow the prompts to manage a team.
 
+  ![usage video for employee generator](./images/employee-manager.gif)
+
   ## License
   Copyright 2022 Alex Hageman
 
